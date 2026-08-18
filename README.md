@@ -16,6 +16,11 @@ My core focus is eliminating operational toil, designing declarative systems, an
 
 ---
 
+> [!IMPORTANT]
+> 🚀 **Currently Executing:** A rigorous 90-Day Production-Ready DevOps & SRE Journey, documenting terminal-first automation, system architecture, and daily hands-on labs.
+
+---
+
 ### 🐍 Contribution Activity
 
 <picture>
@@ -27,13 +32,6 @@ My core focus is eliminating operational toil, designing declarative systems, an
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NB11-ML&show_icons=true&theme=tokyonight&v=1" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NB11-ML&layout=compact&theme=tokyonight&v=1" />
-</div>
-
 ### 🛠️ Technical Ecosystem
 
 | Category | Tools & Technologies |
@@ -43,6 +41,15 @@ My core focus is eliminating operational toil, designing declarative systems, an
 | **Containers & Orchestration**| Docker • Kubernetes (EKS / AKS) • Helm |
 | **CI/CD & Automation** | GitHub Actions • GitLab CI • Python • Bash Scripting |
 | **Data Resilience & SRE** | Automated DR Orchestration • High Availability (HA) Clusters • Storage Systems |
+
+---
+
+### 📊 GitHub Activity & Skills
+
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=NB11-ML&show_icons=true&theme=tokyonight" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=NB11-ML&layout=compact&theme=tokyonight&hide=c,c%2B%2B,dtrace,perl,powershell,roff,cmake" />
+</div>
 
 ---
 
