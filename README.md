@@ -9,6 +9,7 @@
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+[![Docker Pipeline](https://github.com/NB11-ML/git-actions/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/NB11-ML/git-actions/actions/workflows/docker-publish.yml)
 
 Senior systems specialist focused on building resilient, automated, and highly available architectures. I bridge the gap between enterprise systems management and modern cloud-native practices by applying software engineering principles to infrastructure and data durability.
 
