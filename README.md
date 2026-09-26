@@ -37,7 +37,6 @@ Check out my active work in the **[Production-Ready-DevOps-SRE-Journey](https://
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NB11-ML/NB11-ML/output/github-contribution-grid-snake.svg">
 </picture>
 
-
 ---
 
 ### 🛠️ Technical Ecosystem
