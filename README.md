@@ -25,7 +25,16 @@ My core focus is eliminating operational toil, designing declarative systems, an
 ---
 
 My core focus is eliminating operational toil, designing declarative systems, and engineering high-fidelity disaster recovery automation to safeguard business continuity at scale. 
-Check out my active work in the **[Production-Ready-DevOps-SRE-Journey](https://github.com/NB11-ML/Production-Ready-DevOps-SRE-Journey)** repository!
+
+---
+
+### 🏗️ Featured Project: Multi-Environment AWS Infrastructure 
+🔗 [Production-Ready DevOps & SRE Journey](https://github.com/NB11-ML/Production-Ready-DevOps-SRE-Journey)
+
+* **Architecture & Orchestration:** Engineered a production-ready, DRY Infrastructure as Code (IaC) deployment using **Terraform**.
+* **Environment Isolation:** Implemented Terraform Workspaces to dynamically manage isolated state files for Dev, Staging, and Prod from a single codebase.
+* **Custom Modular Design:** Architected reusable child modules for AWS Networking (VPCs, Subnets), Security (Dynamic SGs), and Compute (EC2).
+* **Security & Best Practices:** Enforced strict `.gitignore` rules, implemented dynamic `.tfvars` injection, and adhered to the principle of least privilege.
 
 ---
 
